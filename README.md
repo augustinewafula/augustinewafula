@@ -12,7 +12,7 @@
 
 ## About Me :
 
-I am a Full Stack Software Developer <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> specializing in Laravel and Vue.js, committed to writing concise, readable, and DRY-compliant code.
+I'm a software developer from Nairobi, Kenya. I bring a unique perspective and passion for using technology to solve complex problems and bring ideas to life.
 
 - 🔭 I'm currently focused on web development using Laravel and Vue.js, adhering to best coding practices.
 

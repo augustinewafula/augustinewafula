@@ -23,7 +23,7 @@ I'm Augustine, a software developer from Nairobi, Kenya. I specialize in web dev
 
 - 🔭 Currently focusing on enhancing my skills in Laravel and Vue.js.
 - 🌱 Exploring advanced functionalities in both frameworks.
-- ⚡ Contributing to open source and blogging about tech in my spare time.
+- ⚡ In my spare time, I immerse myself in crafting innovative side projects, each a new adventure in coding and creativity.
 
 ---
 

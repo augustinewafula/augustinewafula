@@ -47,8 +47,6 @@ I believe every project should tell a story — of simplicity meeting craftsmans
 ### 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=augustinewafula&theme=transparent&hide_border=true" alt="GitHub Streak Stats" width="420"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinewafula&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="340"/>
 </p>
 
